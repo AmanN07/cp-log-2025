@@ -1,1 +1,11 @@
+# Ignore VSCode project settings
+.vscode/
+Codechef/.vscode/
+
+# Ignore compiled C++ executables
+Codechef/may21
 *.exe
+*.out
+*.o
+*.obj
+*.bin
