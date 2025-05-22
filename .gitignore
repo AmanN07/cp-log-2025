@@ -9,3 +9,4 @@ Codechef/may21
 *.o
 *.obj
 *.bin
+.DS_Store
